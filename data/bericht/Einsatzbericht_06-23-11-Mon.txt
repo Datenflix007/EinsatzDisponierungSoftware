@@ -1,0 +1,26 @@
+Einsatzbericht:
+Beteiligte Fahrzeuge:
+
+Fahrzeugtyp:_Funkkenner_Fahrzeug_ID
+____Besatzung 1, Besatzung, 2, Besatzung 3,
+____Besatzung 4, Besatzung 5, Besatzung, 6
+
+LTru:_DGN/10/01_1367
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+LTru:_DGN/10/02_1368
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+LTru:_DGN/10/03_1369
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+Bhp:_DGN/99/01_1370
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+EAL-Sa:_DGN/100/0_1371
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+
+
+EinsÃ¤tze:
+Berichtende

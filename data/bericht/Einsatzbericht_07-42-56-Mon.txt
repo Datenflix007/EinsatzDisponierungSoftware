@@ -1,0 +1,95 @@
+Einsatzbericht:
+Beteiligte Fahrzeuge:
+
+Fahrzeugtyp:_Funkkenner_Fahrzeug_ID
+____Besatzung 1, Besatzung, 2, Besatzung 3,
+____Besatzung 4, Besatzung 5, Besatzung, 6
+
+LTru:_DGN/10/01_1372
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+LTru:_DGN/10/02_1373
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+LTru:_DGN/10/03_1374
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+Bhp:_DGN/99/01_1375
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+EAL-Sa:_DGN/100/0_1376
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_302/83/01_1377
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_302/83/02_1378
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_302/83/03_1379
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+82:_302/82/01_1380
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+82:_302/82/02_1381
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_303/83/01_1382
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_303/83/02_1383
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_303/83/03_1384
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+82:_303/82/01_1385
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_304/83/01_1386
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_304/83/02_1387
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_304/83/03_1388
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+82:_304/82/01_1389
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+11:_461/11/01_1390
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+12:_461/12/01_1391
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+82:_461/82/01_1392
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_461/83/01_1393
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+83:_461/83/02_1394
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+85:_461/85/01_1395
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+85:_461/85/01_1396
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+84:_422/84/01_1397
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+93:_422/93/01_1398
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+19:_432/19/01_1399
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+____Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), Staacke, Felix (San, TruppfÃ¼hrer), 
+
+
+EinsÃ¤tze:
+Berichtende

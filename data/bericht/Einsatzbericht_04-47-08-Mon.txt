@@ -1,0 +1,41 @@
+Einsatzbericht:
+Beteiligte Fahrzeuge:
+
+Fahrzeugtyp:_Funkkenner_Fahrzeug_ID
+____Besatzung 1, Besatzung, 2, Besatzung 3,
+____Besatzung 4, Besatzung 5, Besatzung, 6
+
+LTru:_DGN/10/01_1740
+____, , , 
+____, , , 
+LTru:_DGN/10/02_1741
+____, , , 
+____, , , 
+LTru:_DGN/10/03_1742
+____, , , 
+____, , , 
+Bhp:_DGN/99/01_1743
+____, , , 
+____, , , 
+EAL-Sa:_DGN/100/0_1744
+____, , , 
+____, , , 
+LTru:_DGN/10/01_1745
+____, , , 
+____, , , 
+LTru:_DGN/10/02_1746
+____, , , 
+____, , , 
+LTru:_DGN/10/03_1747
+____, , , 
+____, , , 
+Bhp:_DGN/99/01_1748
+____, , , 
+____, , , 
+EAL-Sa:_DGN/100/0_1749
+____, , , 
+____, , , 
+
+
+EinsÃ¤tze:
+Berichtende

@@ -1,0 +1,54 @@
+Einsatzbericht:
+Beteiligte Fahrzeuge:
+
+Fahrzeugtyp:_Funkkenner_Fahrzeug_ID
+____Besatzung 1, Besatzung, 2, Besatzung 3,
+____Besatzung 4, Besatzung 5, Besatzung, 6
+
+LTru:_San_01_1697
+____, , , 
+____, , , 
+LTru:_San_02_1698
+____, , , 
+____, , , 
+LTru:_San_03_1699
+____, , , 
+____, , , 
+11:_461/11/01_1700
+____, , , 
+____, , , 
+12:_461/12/01_1701
+____, , , 
+____, , , 
+82:_461/82/01_1702
+____, , , 
+____, , , 
+83:_461/83/01_1703
+____, , , 
+____, , , 
+83:_461/83/02_1704
+____, , , 
+____, , , 
+85:_461/85/01_1705
+____, , , 
+____, , , 
+85:_461/85/02_1706
+____, , , 
+____, , , 
+84:_422/84/01_1707
+____, , , 
+____, , , 
+93:_422/93/01_1708
+____, , , 
+____, , , 
+19:_432/19/01_1709
+____, , , 
+____, , , 
+
+
+EinsÃ¤tze:
+Einsatz:_214_Schlechter AZ
+____
+Einsatz:_215_Schlechter AZ
+____OS_Thomas Muentzer Strasse 22/23-Naumburg
+Berichtende

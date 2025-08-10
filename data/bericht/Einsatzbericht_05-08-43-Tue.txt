@@ -1,0 +1,39 @@
+Einsatzbericht:
+Beteiligte Fahrzeuge:
+
+Fahrzeugtyp:_Funkkenner_Fahrzeug_ID
+____Besatzung 1, Besatzung, 2, Besatzung 3,
+____Besatzung 4, Besatzung 5, Besatzung, 6
+
+LTru:_DGN/10/01_1597
+____, , , 
+____, , , 
+LTru:_DGN/10/02_1598
+____, , , 
+____, , , 
+LTru:_DGN/100/0_1599
+____, , , 
+____, , , 
+16:_Partybus_1600
+____Pocher, Cedric (, ), Stephan, Paul (, ), Schmidke, Tom Marvin (Notarzt, ), 
+____, , , 
+
+
+EinsÃ¤tze:
+Einsatz:_198_Schlechter AZ
+____
+Einsatz:_199_Schlechter AZ
+____B_Jenaer Strasse-Naumburg
+Einsatz:_200_Schlechter AZ
+____OEPV_Poststraße 5-Naumburg
+Einsatz:_201_Schlechter AZ
+____
+Einsatz:_202_Schlechter AZ
+____Haus_Thomas Muentzer Strasse 18-Naumburg
+Einsatz:_203_Schlechter AZ
+____Haus_Thomas Muentzer Strasse 4-Naumburg
+Einsatz:_204_Schlechter AZ
+____
+Einsatz:_205_Schlechter AZ
+____Haus_Thomas-Muentzer Strasse 3-Naumburg
+Berichtende

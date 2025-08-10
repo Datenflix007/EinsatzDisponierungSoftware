@@ -1,0 +1,104 @@
+
+
+
+  .Settings{
+    position: fixed;
+    height: 80%;
+    width: 1200px;
+    background-color: #F36521;
+    margin-left: 50px;
+    margin-top: 50px;
+    left: 200px;
+
+    right: 0px;
+    z-index: 4;
+    color: white;
+
+  }
+
+  .body-background{
+
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    margin-left: 0px;
+    left: 0px;
+    z-index: 1;
+    overflow-x: scroll;
+  }
+    .headbar{
+      background-color: red;
+      top: 0px;
+      margin-top: 0px;
+      left: 0px;
+      margin-left: 0px;
+      right: 0px;
+      margin-right: 0px;
+      color: white;
+      margin-bottom: 0px;
+      position: fixed;
+      display: inline-block;
+      z-index: 3;
+
+
+    }
+    .bodylul{
+      margin-left: 120px;
+      right:0px;
+      margin-right: 0px;
+      margin-top: 80px;
+      position: static;
+
+    }
+    iframe{
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .Masken{
+      z-index: 4;
+      background-color: blue;
+      color: white;
+      margin-top: 300px;
+      position: fixed;
+    }
+    .leftbar{
+      position: fixed;
+      height: 1000px;
+      width: 120px;
+      background-color: #F36521;
+      margin-left: 0px;
+      margin-top: 80px;
+      left: 0px;
+      display: inline-block;
+
+
+      z-index: 3;
+
+
+    }
+    .leftbar2{
+      position: fixed;
+      height: 1000px;
+      width: 2px;
+      background-color: #F36521;
+      margin-left: 0px;
+      margin-top: 80px;
+      left: 0px;
+      display: inline-block;
+
+
+      z-index: 3;
+
+
+    }
+    .leftbar_in{
+      position: relative;
+    }
+    .leftbar_in_in{
+      position: relative;
+    }
+
+    .leftbar_in:hover{
+      transform: translateX(200px);
+    }
+    body{background-color: grey; backface-visibility: 0.7;}
